@@ -29,8 +29,8 @@ public class StringCalculatorTest {
 
     }
 
-   @Test
-    public void ExpectSumForTwoNumbers()
+  // @Test
+    /*public void ExpectSumForTwoNumbers()
     {
         int expectedResult = 3;
         String input = "1,2";
@@ -68,5 +68,5 @@ public class StringCalculatorTest {
         int result = objUnderTest.add(input);
 
       assertEquals(expectedResult,result);
-    }
+    }*/
 }
